@@ -1,3 +1,16 @@
+## [1.1.12] - 2023-12-05
+
+- Az alkalmazás mindig a legkorábban elérhető időpontot ajánlja fel.
+- Foglalt időpont telefonban elérhető naptárba mentése.
+- Felhasználóbarátabb hibakezelés és hibakijelzés.
+- Hiba riportot csak akkor küldi el az alkalmazás, ha a felhasználó ezt kifejezetten kéri.
+- Profil oldalon a páciens nemének helyes kijelzése.
+- Oldalak azonnali frissítési lehetősége.
+
+
+
+
+
 # Changelog
 
 All notable changes to this project will be documented in this file.
